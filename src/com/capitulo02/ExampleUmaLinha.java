@@ -1,0 +1,2 @@
+package com.capitulo02; //006
+public class ExampleUmaLinha{public static void main(String[] a){System.out.println("Forma livre com espaços");}} /* Respeitando alguns espaços para que o compilador identifique palavras reservadas, identificadores e símbolos é possível escrever um programa java em uma linha. Não há uma regra para escrever programas em Java. O que há é uma convenção para facilitar a legibilidade do código. Eu não usaria o exemplo desse arquivo e nunca vi profissionalmente ser utilizado. */
