@@ -1,0 +1,6 @@
+24/09/2023
+Estudo do livro: Java The Complete Reference Twelfth Edition
+JDK 17+
+Revisão de conteúdo e estudo.
+Preparação de aula para o Ensino Médio Técnico em Desenvolvimento de Sistemas.
+
