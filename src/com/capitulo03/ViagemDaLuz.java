@@ -20,6 +20,9 @@ public class ViagemDaLuz {
     System.out.print("Em "+ dias);
     System.out.print(" dia(s) a luz viajará no vácuo ");
     System.out.println(distancia +" quilômetros.");
+    
+    System.out.println(Integer.parseInt("10"));
+    System.out.println(Long.parseLong("10000"));
   }
 }
 
